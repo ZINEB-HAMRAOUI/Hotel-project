@@ -1,4 +1,4 @@
-# covidproject
+# hotelproject
 
 A new Flutter project.
 
